@@ -1,5 +1,8 @@
 # Odoo testing environment for load balancing
 
+# Reference 
+  https://www.youtube.com/watch?v=_q1MhVPKV5g
+
 Start database
 
 ## Introduction
