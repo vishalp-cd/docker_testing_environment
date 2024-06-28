@@ -1,0 +1,13 @@
+redis==4.3.4
+python-json-logger==2.0.7
+statsd==4.0.1
+
+# For S3 object storage (Exoscale, AWS)
+boto==2.49.0
+
+azure-storage-blob==12.20.0
+azure-identity==1.17.1
+
+# For Swift object storage (Openstack, OVH)
+#python-swiftclient==4.6.0
+#python-keystoneclient==5.4.0
